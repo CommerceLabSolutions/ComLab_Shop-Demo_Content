@@ -1,0 +1,70 @@
+{
+    "variant": {
+        "name": "Size",
+        "ordering": "0"
+    },
+    "variant_data": [
+        {
+            "label_ids": "1",
+            "price": "2000",
+            "stock": "20",
+            "sku": "CL-00001",
+            "active": "1",
+            "default": "1",
+            "ordering": "0"
+        },
+        {
+            "label_ids": "2",
+            "price": "2000",
+            "stock": "30",
+            "sku": "CL-00002",
+            "active": "1",
+            "default": "0",
+            "ordering": "1"
+        },
+        {
+            "label_ids": "3",
+            "price": "2000",
+            "stock": "40",
+            "sku": "CL-00003",
+            "active": "1",
+            "default": "0",
+            "ordering": "2"
+        },
+        {
+            "label_ids": "4",
+            "price": "2000",
+            "stock": "50",
+            "sku": "CL-00004",
+            "active": "1",
+            "default": "0",
+            "ordering": "3"
+        },
+        {
+            "label_ids": "5",
+            "price": "2000",
+            "stock": "60",
+            "sku": "CL-00005",
+            "active": "1",
+            "default": "0",
+            "ordering": "4"
+        }
+    ],
+    "variant_label": [
+        {
+            "name": "Small"
+        },
+        {
+            "name": "Medium"
+        },
+        {
+            "name": "Large"
+        },
+        {
+            "name": "XL"
+        },
+        {
+            "name": "XXL"
+        }
+    ]
+}
